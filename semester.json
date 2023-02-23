@@ -1,0 +1,356 @@
+{
+    "semester": [
+        {
+            "id": "0",
+            "name": "Sem - 1 & 2",
+            "icon": "https://mrharsh007.github.io/GtuMaterialJson/semIcon/sem1.png",
+            "desc": "CS/IT Material",
+            "source": [
+                {
+                    "id": 0,
+                    "name": "Mathematics-I",
+                    "desc": "Math-1 : 3110014",
+                    "syllabus": "https://mrharsh007.github.io/GtuMaterialJson/Sem1/syllabus/maths1.pdf",
+                    "material": "https://mrharsh007.github.io/GtuMaterialJson/Sem1/material/maths1.pdf",
+                    "image": "https://mrharsh007.github.io/GtuMaterialJson/Sem1/icon/maths1.jpg"
+                },
+                {
+                    "id": 1,
+                    "name": "Physics Group - II ",
+                    "desc": "Phy-2 : 3110018 ",
+                    "syllabus": "https://mrharsh007.github.io/GtuMaterialJson/Sem1/syllabus/physics2.pdf",
+                    "material": "https://mrharsh007.github.io/GtuMaterialJson/Sem1/material/physics2.pdf",
+                    "image": "https://mrharsh007.github.io/GtuMaterialJson/Sem1/icon/physics2.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Engineering Graphics & Design",
+                    "desc": "EGD : 3110013",
+                    "syllabus": "https://mrharsh007.github.io/GtuMaterialJson/Sem1/syllabus/egd.pdf",
+                    "material": "https://mrharsh007.github.io/GtuMaterialJson/Sem1/material/egd.pdf",
+                    "image": "https://mrharsh007.github.io/GtuMaterialJson/Sem1/icon/egd.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "Basic Electrical Engineering",
+                    "desc": "BEE : 3110005",
+                    "syllabus": "https://mrharsh007.github.io/GtuMaterialJson/Sem1/syllabus/bee.pdf",
+                    "material": "https://mrharsh007.github.io/GtuMaterialJson/Sem1/material/bee.pdf",
+                    "image": "https://mrharsh007.github.io/GtuMaterialJson/Sem1/icon/bee.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "Environmental Science",
+                    "desc": "ES : 3110007",
+                    "syllabus": "https://mrharsh007.github.io/GtuMaterialJson/Sem1/syllabus/es.pdf",
+                    "material": "https://mrharsh007.github.io/GtuMaterialJson/Sem1/material/es.pdf",
+                    "image": "https://mrharsh007.github.io/GtuMaterialJson/Sem1/icon/es.jpg"
+                },
+                {
+                    "id": 5,
+                    "name": "Basic Electronics",
+                    "desc": "BE : 3110016",
+                    "syllabus": "https://mrharsh007.github.io/GtuMaterialJson/Sem1/syllabus/be.pdf",
+                    "material": "https://mrharsh007.github.io/GtuMaterialJson/Sem1/material/be.pdf",
+                    "image": "https://mrharsh007.github.io/GtuMaterialJson/Sem1/icon/be.jpg"
+                },
+                {
+                    "id": 6,
+                    "name": "Mathematics-II",
+                    "desc": "Maths-2 : 3110015",
+                    "syllabus": "https://mrharsh007.github.io/GtuMaterialJson/Sem1/syllabus/maths2.pdf",
+                    "material": "https://mrharsh007.github.io/GtuMaterialJson/Sem1/material/maths2.pdf",
+                    "image": "https://mrharsh007.github.io/GtuMaterialJson/Sem1/icon/maths2.jpg"
+                },
+                {
+                    "id": 7,
+                    "name": "Programming for Problem Solving",
+                    "desc": "Maths-2 : 3110003",
+                    "syllabus": "https://mrharsh007.github.io/GtuMaterialJson/Sem1/syllabus/pps.pdf",
+                    "material": "https://mrharsh007.github.io/GtuMaterialJson/Sem1/material/pps.pdf",
+                    "image": "https://mrharsh007.github.io/GtuMaterialJson/Sem1/icon/pps.jpg"
+                },
+                {
+                    "id": 8,
+                    "name": "Basic Mechanical Engineering",
+                    "desc": "BME : 3110006",
+                    "syllabus": "https://mrharsh007.github.io/GtuMaterialJson/Sem1/syllabus/bme.pdf",
+                    "material": "https://mrharsh007.github.io/GtuMaterialJson/Sem1/material/bme.pdf",
+                    "image": "https://mrharsh007.github.io/GtuMaterialJson/Sem1/icon/bme.jpg"
+                }
+            ]
+        },
+        {
+            "id": "1",
+            "name": "Sem - 3",
+            "icon": "https://mrharsh007.github.io/GtuMaterialJson/semIcon/sem3.png",
+            "desc": "CS/IT Material",
+            "source": [
+                {
+                    "id": 0,
+                    "name": "Database Managment System",
+                    "desc": " : 3130703",
+                    "syllabus": "https://mrharsh007.github.io/GtuMaterialJson/Sem3/syllabus/dbms.pdf",
+                    "material": "https://mrharsh007.github.io/GtuMaterialJson/Sem3/material/dbms.pdf",
+                    "image": "https://mrharsh007.github.io/GtuMaterialJson/Sem3/icon/dbms.jpg"
+                },
+                {
+                    "id": 1,
+                    "name": "Digital Fundamental",
+                    "desc": "DF : 3130704 ",
+                    "syllabus": "https://mrharsh007.github.io/GtuMaterialJson/Sem3/syllabus/df.pdf",
+                    "material": "https://mrharsh007.github.io/GtuMaterialJson/Sem3/material/df.pdf",
+                    "image": "https://mrharsh007.github.io/GtuMaterialJson/Sem3/icon/df.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Data Structure",
+                    "desc": "DS : 3130702",
+                    "syllabus": "https://mrharsh007.github.io/GtuMaterialJson/Sem3/syllabus/ds.pdf",
+                    "material": "https://mrharsh007.github.io/GtuMaterialJson/Sem3/material/ds.pdf",
+                    "image": "https://mrharsh007.github.io/GtuMaterialJson/Sem3/icon/ds.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "Indian Constitution",
+                    "desc": "IC : 3130007",
+                    "syllabus": "https://mrharsh007.github.io/GtuMaterialJson/Sem3/syllabus/ic.pdf",
+                    "material": "https://mrharsh007.github.io/GtuMaterialJson/Sem3/material/ic.pdf",
+                    "image": "https://mrharsh007.github.io/GtuMaterialJson/Sem3/icon/ic.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "Probability & Statistics",
+                    "desc": "PS : 3130006",
+                    "syllabus": "https://mrharsh007.github.io/GtuMaterialJson/Sem3/syllabus/ps.pdf",
+                    "material": "https://mrharsh007.github.io/GtuMaterialJson/Sem3/material/ps.pdf",
+                    "image": "https://mrharsh007.github.io/GtuMaterialJson/Sem3/icon/ps.jpg"
+                },
+                {
+                    "id": 5,
+                    "name": "Effective Technical Communication",
+                    "desc": "ETC : 3130004",
+                    "syllabus": "https://mrharsh007.github.io/GtuMaterialJson/Sem3/syllabus/etc.pdf",
+                    "material": "https://mrharsh007.github.io/GtuMaterialJson/Sem3/material/etc.pdf",
+                    "image": "https://mrharsh007.github.io/GtuMaterialJson/Sem3/icon/etc.jpg"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Sem - 4",
+            "icon": "https://mrharsh007.github.io/GtuMaterialJson/semIcon/sem4.png",
+            "desc": "CS/IT Material",
+            "source": [
+                {
+                    "id": 0,
+                    "name": "Object Oriented Programming - 1",
+                    "desc": "OOP : 3140705",
+                    "syllabus": "https://mrharsh007.github.io/GtuMaterialJson/Sem4/syllabus/oop.pdf",
+                    "material": "https://mrharsh007.github.io/GtuMaterialJson/Sem4/material/oop.pdf",
+                    "image": "https://mrharsh007.github.io/GtuMaterialJson/Sem4/icon/oop.jpg"
+                },
+                {
+                    "id": 1,
+                    "name": "Operating System",
+                    "desc": "OS : 3140702 ",
+                    "syllabus": "https://mrharsh007.github.io/GtuMaterialJson/Sem4/syllabus/os.pdf",
+                    "material": "https://mrharsh007.github.io/GtuMaterialJson/Sem4/material/os.pdf",
+                    "image": "https://mrharsh007.github.io/GtuMaterialJson/Sem4/icon/os.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Computer Organization & Architecture",
+                    "desc": "COA : 3140707",
+                    "syllabus": "https://mrharsh007.github.io/GtuMaterialJson/Sem4/syllabus/coa.pdf",
+                    "material": "https://mrharsh007.github.io/GtuMaterialJson/Sem4/material/coa.pdf",
+                    "image": "https://mrharsh007.github.io/GtuMaterialJson/Sem4/icon/coa.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "Discrete Mathematics",
+                    "desc": "DM : 3140708",
+                    "syllabus": "https://mrharsh007.github.io/GtuMaterialJson/Sem4/syllabus/dm.pdf",
+                    "material": "https://mrharsh007.github.io/GtuMaterialJson/Sem4/material/dm.pdf",
+                    "image": "https://mrharsh007.github.io/GtuMaterialJson/Sem4/icon/dm.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": " Principles Of Economics And Management",
+                    "desc": "PEM : 3140709",
+                    "syllabus": "https://mrharsh007.github.io/GtuMaterialJson/Sem4/syllabus/pem.pdf",
+                    "material": "https://mrharsh007.github.io/GtuMaterialJson/Sem4/material/pem.pdf",
+                    "image": "https://mrharsh007.github.io/GtuMaterialJson/Sem4/icon/pem.jpg"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": "Sem - 5",
+            "icon": "https://mrharsh007.github.io/GtuMaterialJson/semIcon/sem5.png",
+            "desc": "CS/IT Material",
+            "source": [
+                {
+                    "id": 0,
+                    "name": "Analysis And Design Of Algorithms ",
+                    "desc": "ADA : 3150703",
+                    "syllabus": "https://mrharsh007.github.io/GtuMaterialJson/Sem5/syllabus/ada.pdf",
+                    "material": "https://mrharsh007.github.io/GtuMaterialJson/Sem5/material/ada.pdf",
+                    "image": "https://mrharsh007.github.io/GtuMaterialJson/Sem5/icon/ada.jpg"
+                },
+                {
+                    "id": 1,
+                    "name": "Professional Ethics ",
+                    "desc": "PE : 3150709 ",
+                    "syllabus": "https://mrharsh007.github.io/GtuMaterialJson/Sem5/syllabus/pe.pdf",
+                    "material": "https://mrharsh007.github.io/GtuMaterialJson/Sem5/material/pe.pdf",
+                    "image": "https://mrharsh007.github.io/GtuMaterialJson/Sem5/icon/pe.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Computer Networks ",
+                    "desc": "CN : 3150710",
+                    "syllabus": "https://mrharsh007.github.io/GtuMaterialJson/Sem5/syllabus/cn.pdf",
+                    "material": "https://mrharsh007.github.io/GtuMaterialJson/Sem5/material/cn.pdf",
+                    "image": "https://mrharsh007.github.io/GtuMaterialJson/Sem5/icon/cn.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "Software Engineering",
+                    "desc": "SE : 3150711",
+                    "syllabus": "https://mrharsh007.github.io/GtuMaterialJson/Sem5/syllabus/se.pdf",
+                    "material": "https://mrharsh007.github.io/GtuMaterialJson/Sem5/material/se.pdf",
+                    "image": "https://mrharsh007.github.io/GtuMaterialJson/Sem5/icon/se.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "Python for Data Science",
+                    "desc": "PDS : 3150713",
+                    "syllabus": "https://mrharsh007.github.io/GtuMaterialJson/Sem5/syllabus/pds.pdf",
+                    "material": "https://mrharsh007.github.io/GtuMaterialJson/Sem5/material/pds.pdf",
+                    "image": "https://mrharsh007.github.io/GtuMaterialJson/Sem5/icon/pds.jpg"
+                },
+                {
+                    "id": 5,
+                    "name": "Cyber Security",
+                    "desc": "CS : 3150714",
+                    "syllabus": "https://mrharsh007.github.io/GtuMaterialJson/Sem5/syllabus/cs.pdf",
+                    "material": "https://mrharsh007.github.io/GtuMaterialJson/Sem5/material/CS Question Bank with solution.pdf",
+                    "image": "https://mrharsh007.github.io/GtuMaterialJson/Sem5/icon/cs.jpg"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "name": "Sem - 6",
+            "icon": "https://mrharsh007.github.io/GtuMaterialJson/semIcon/sem6.png",
+            "desc": "CS/IT Material",
+            "source": [
+                {
+                    "id": 0,
+                    "name": "Theory of Computation",
+                    "desc": "TOC : 3160704",
+                    "syllabus": "https://mrharsh007.github.io/GtuMaterialJson/Sem6/syllabus/toc.pdf",
+                    "material": "https://mrharsh007.github.io/GtuMaterialJson/Sem6/material/toc.pdf",
+                    "image": "https://mrharsh007.github.io/GtuMaterialJson/Sem6/icon/toc.jpg"
+                },
+                {
+                    "id": 1,
+                    "name": "Advance java Programming",
+                    "desc": "A.Java : 3160707",
+                    "syllabus": "https://mrharsh007.github.io/GtuMaterialJson/Sem6/syllabus/ajava.pdf",
+                    "material": "https://mrharsh007.github.io/GtuMaterialJson/Sem6/material/AJAVA.pdf",
+                    "image": "https://mrharsh007.github.io/GtuMaterialJson/Sem6/icon/ajava.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Microprocessor and Interfacing",
+                    "desc": "MPI : 3160712",
+                    "syllabus": "https://mrharsh007.github.io/GtuMaterialJson/Sem6/syllabus/mpi.pdf",
+                    "material": "https://mrharsh007.github.io/GtuMaterialJson/Sem6/material/mi.pdf",
+                    "image": "https://mrharsh007.github.io/GtuMaterialJson/Sem6/icon/mpi.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "WEB Programming",
+                    "desc": "WP : 3160713",
+                    "syllabus": "https://mrharsh007.github.io/GtuMaterialJson/Sem6/syllabus/wp.pdf",
+                    "material": "https://mrharsh007.github.io/GtuMaterialJson/Sem6/material/wp.pdf",
+                    "image": "https://mrharsh007.github.io/GtuMaterialJson/Sem6/icon/wp.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "Data Mining",
+                    "desc": "DM : 3160714",
+                    "syllabus": "https://mrharsh007.github.io/GtuMaterialJson/Sem6/syllabus/dm.pdf",
+                    "material": "https://mrharsh007.github.io/GtuMaterialJson/Sem6/material/Wp1.pdf",
+                    "image": "https://mrharsh007.github.io/GtuMaterialJson/Sem6/icon/dm.jpg"
+                },
+                {
+                    "id": 5,
+                    "name": "IOT and Applications",
+                    "desc": "IOT : 3160716",
+                    "syllabus": "https://mrharsh007.github.io/GtuMaterialJson/Sem6/syllabus/iot.pdf",
+                    "material": "https://mrharsh007.github.io/GtuMaterialJson/Sem6/material/IOT.pdf",
+                    "image": "https://mrharsh007.github.io/GtuMaterialJson/Sem6/icon/iot.jpg"
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "name": "Sem - 7",
+            "icon": "https://mrharsh007.github.io/GtuMaterialJson/semIcon/sem7.png",
+            "desc": "CS/IT Material",
+            "source": [
+                {
+                    "id": 0,
+                    "name": "Compiler Design",
+                    "desc": "CD : 3170701",
+                    "syllabus": "https://mrharsh007.github.io/GtuMaterialJson/Sem7/syllabus/cd.pdf",
+                    "material": "https://mrharsh007.github.io/GtuMaterialJson/Sem7/material/cd.pdf",
+                    "image": "https://mrharsh007.github.io/GtuMaterialJson/Sem7/icon/cd.jpg"
+                },
+                {
+                    "id": 1,
+                    "name": "Mobile Computing and Wireless communication ",
+                    "desc": "MCWC : 3170710",
+                    "syllabus": "https://mrharsh007.github.io/GtuMaterialJson/Sem7/syllabus/mcwc.pdf",
+                    "material": "https://mrharsh007.github.io/GtuMaterialJson/Sem7/material/mcwc.pdf",
+                    "image": "https://mrharsh007.github.io/GtuMaterialJson/Sem7/icon/mcwc.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Artificial Intelligence ",
+                    "desc": "AI : 3170716",
+                    "syllabus": "https://mrharsh007.github.io/GtuMaterialJson/Sem7/syllabus/ai.pdf",
+                    "material": "https://mrharsh007.github.io/GtuMaterialJson/Sem7/material/ai.pdf",
+                    "image": "https://mrharsh007.github.io/GtuMaterialJson/Sem7/icon/ai.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "Distributed System ",
+                    "desc": "DS : 3170719",
+                    "syllabus": "https://mrharsh007.github.io/GtuMaterialJson/Sem7/syllabus/ds.pdf",
+                    "material": "https://mrharsh007.github.io/GtuMaterialJson/Sem7/material/ds.pdf",
+                    "image": "https://mrharsh007.github.io/GtuMaterialJson/Sem7/icon/ds.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "Big Data Analytics ",
+                    "desc": "BDA : 3170722",
+                    "syllabus": "https://mrharsh007.github.io/GtuMaterialJson/Sem7/syllabus/bda.pdf",
+                    "material": "https://mrharsh007.github.io/GtuMaterialJson/Sem7/material/bda.pdf",
+                    "image": "https://mrharsh007.github.io/GtuMaterialJson/Sem7/icon/bda.jpg"
+                },
+                {
+                    "id": 5,
+                    "name": "Mobile Application Development",
+                    "desc": "MAD : 3170726",
+                    "syllabus": "https://mrharsh007.github.io/GtuMaterialJson/Sem7/syllabus/mad.pdf",
+                    "material": "https://mrharsh007.github.io/GtuMaterialJson/Sem7/material/mad.pdf",
+                    "image": "https://mrharsh007.github.io/GtuMaterialJson/Sem7/icon/mad.jpg"
+                }
+            ]
+        }
+    ]
+}

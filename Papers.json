@@ -1,0 +1,70 @@
+{
+    "Papers": [
+        {
+            "id": "0",
+            "name": "Sem:3",
+            "source": [
+                {
+                    "id": "0",
+                    "name": "DS",
+                    "papers": [
+                        {
+                            "name": "W 2019",
+                            "link": "https://mrharsh007.github.io/GtuMaterialJson/Papers/Sem%203/DS/W%202019.pdf"
+                        },
+                        {
+                            "name": "S 2019",
+                            "link": "https://mrharsh007.github.io/GtuMaterialJson/Papers/Sem%203/DS/W%202019.pdf"
+                        },
+                        {
+                            "name": "W 2020",
+                            "link": "https://mrharsh007.github.io/GtuMaterialJson/Papers/Sem%203/DS/W%202019.pdf"
+                        }
+                    ]
+                },
+                {
+                    "id": "1",
+                    "name": "DBMS",
+                    "papers": [
+                        {
+                            "name": "W 2019",
+                            "link": "https://mrharsh007.github.io/GtuMaterialJson/Papers/Sem%203/DBMS/W%202019.pdf"
+                        },
+                        {
+                            "name": "S 2019",
+                            "link": "https://mrharsh007.github.io/GtuMaterialJson/Papers/Sem%203/DBMS/W%202019.pdf"
+                        },
+                        {
+                            "name": "W 2020",
+                            "link": "https://mrharsh007.github.io/GtuMaterialJson/Papers/Sem%203/DBMS/W%202019.pdf"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1",
+            "name": "Sem:4",
+            "source": [
+                {
+                    "id": "0",
+                    "name": "DS",
+                    "papers": [
+                        {
+                            "name": "W 2019",
+                            "link": "https://mrharsh007.github.io/GtuMaterialJson/Papers/Sem%203/DS/W%202019.pdf"
+                        },
+                        {
+                            "name": "S 2019",
+                            "link": "https://mrharsh007.github.io/GtuMaterialJson/Papers/Sem%203/DS/W%202019.pdf"
+                        },
+                        {
+                            "name": "W 2020",
+                            "link": "https://mrharsh007.github.io/GtuMaterialJson/Papers/Sem%203/DS/W%202019.pdf"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
