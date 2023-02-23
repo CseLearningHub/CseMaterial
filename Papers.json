@@ -180,37 +180,147 @@
             "source": [
                 {
                     "id": "0",
-                    "name": "DS",
+                    "name": "COA",
                     "papers": [
                         {
-                            "name": "W 2019",
-                            "link": "https://cselearninghub.github.io/CseMaterial/Papers/Sem%203/DS/W%202019.pdf"
-                        },
-                        {
-                            "name": "S 2019",
-                            "link": "https://cselearninghub.github.io/CseMaterial/Papers/Sem%203/DS/W%202019.pdf"
-                        },
-                        {
                             "name": "W 2020",
-                            "link": "https://cselearninghub.github.io/CseMaterial/Papers/Sem%203/DS/W%202019.pdf"
+                            "link": "https://cselearninghub.github.io/CseMaterial/Papers/Sem 4/COA/W 2020.pdf"
+                        },
+                        {
+                            "name": "W 2021",
+                            "link": "https://cselearninghub.github.io/CseMaterial/Papers/Sem 4/COA/W 2021.pdf"
+                        },
+                        {
+                            "name": "W 2022",
+                            "link": "https://cselearninghub.github.io/CseMaterial/Papers/Sem 4/COA/W 2022.pdf"
+                        },
+                        {
+                            "name": "S 2020",
+                            "link": "https://cselearninghub.github.io/CseMaterial/Papers/Sem 4/COA/S 2020.pdf"
+                        },
+                        {
+                            "name": "S 2021",
+                            "link": "https://cselearninghub.github.io/CseMaterial/Papers/Sem 4/COA/S 2021.pdf"
+                        },
+                        {
+                            "name": "S 2022",
+                            "link": "https://cselearninghub.github.io/CseMaterial/Papers/Sem 4/COA/S 2022.pdf"
                         }
                     ]
                 },
                 {
                     "id": "1",
-                    "name": "DBMS",
+                    "name": "DM",
                     "papers": [
                         {
-                            "name": "W 2019",
-                            "link": "https://cselearninghub.github.io/CseMaterial/Papers/Sem%203/DBMS/W%202019.pdf"
+                            "name": "W 2020",
+                            "link": "https://cselearninghub.github.io/CseMaterial/Papers/Sem 4/DM/W 2020.pdf"
                         },
                         {
-                            "name": "S 2019",
-                            "link": "https://cselearninghub.github.io/CseMaterial/Papers/Sem%203/DBMS/W%202019.pdf"
+                            "name": "W 2021",
+                            "link": "https://cselearninghub.github.io/CseMaterial/Papers/Sem 4/DM/W 2021.pdf"
                         },
+                        {
+                            "name": "W 2022",
+                            "link": "https://cselearninghub.github.io/CseMaterial/Papers/Sem 4/DM/W 2022.pdf"
+                        },
+                        {
+                            "name": "S 2020",
+                            "link": "https://cselearninghub.github.io/CseMaterial/Papers/Sem 4/DM/S 2020.pdf"
+                        },
+                        {
+                            "name": "S 2021",
+                            "link": "https://cselearninghub.github.io/CseMaterial/Papers/Sem 4/DM/S 2021.pdf"
+                        },
+                        {
+                            "name": "S 2022",
+                            "link": "https://cselearninghub.github.io/CseMaterial/Papers/Sem 4/DM/S 2022.pdf"
+                        }
+                    ]
+                },
+                {
+                    "id": "2",
+                    "name": "OOP",
+                    "papers": [
                         {
                             "name": "W 2020",
-                            "link": "https://cselearninghub.github.io/CseMaterial/Papers/Sem%203/DBMS/W%202019.pdf"
+                            "link": "https://cselearninghub.github.io/CseMaterial/Papers/Sem 4/OOP/W 2020.pdf"
+                        },
+                        {
+                            "name": "W 2021",
+                            "link": "https://cselearninghub.github.io/CseMaterial/Papers/Sem 4/OOP/W 2021.pdf"
+                        },
+                        {
+                            "name": "W 2022",
+                            "link": "https://cselearninghub.github.io/CseMaterial/Papers/Sem 4/OOP/W 2022.pdf"
+                        },
+                        {
+                            "name": "S 2020",
+                            "link": "https://cselearninghub.github.io/CseMaterial/Papers/Sem 4/OOP/S 2020.pdf"
+                        },
+                        {
+                            "name": "S 2021",
+                            "link": "https://cselearninghub.github.io/CseMaterial/Papers/Sem 4/OOP/S 2021.pdf"
+                        },
+                        {
+                            "name": "S 2022",
+                            "link": "https://cselearninghub.github.io/CseMaterial/Papers/Sem 4/OOP/S 2022.pdf"
+                        }
+                    ]
+                },
+                {
+                    "id": "3",
+                    "name": "OS",
+                    "papers": [
+                        {
+                            "name": "W 2020",
+                            "link": "https://cselearninghub.github.io/CseMaterial/Papers/Sem 4/OS/W 2020.pdf"
+                        },
+                        {
+                            "name": "W 2021",
+                            "link": "https://cselearninghub.github.io/CseMaterial/Papers/Sem 4/OS/W 2021.pdf"
+                        },
+                        {
+                            "name": "W 2022",
+                            "link": "https://cselearninghub.github.io/CseMaterial/Papers/Sem 4/OS/W 2022.pdf"
+                        },
+                        {
+                            "name": "S 2021",
+                            "link": "https://cselearninghub.github.io/CseMaterial/Papers/Sem 4/OS/S 2021.pdf"
+                        },
+                        {
+                            "name": "S 2022",
+                            "link": "https://cselearninghub.github.io/CseMaterial/Papers/Sem 4/OS/S 2022.pdf"
+                        }
+                    ]
+                },
+                {
+                    "id": "4",
+                    "name": "PEM",
+                    "papers": [
+                        {
+                            "name": "W 2020",
+                            "link": "https://cselearninghub.github.io/CseMaterial/Papers/Sem 4/PEM/W 2020.pdf"
+                        },
+                        {
+                            "name": "W 2021",
+                            "link": "https://cselearninghub.github.io/CseMaterial/Papers/Sem 4/PEM/W 2021.pdf"
+                        },
+                        {
+                            "name": "W 2022",
+                            "link": "https://cselearninghub.github.io/CseMaterial/Papers/Sem 4/PEM/W 2022.pdf"
+                        },
+                        {
+                            "name": "S 2020",
+                            "link": "https://cselearninghub.github.io/CseMaterial/Papers/Sem 4/PEM/S 2020.pdf"
+                        },
+                        {
+                            "name": "S 2021",
+                            "link": "https://cselearninghub.github.io/CseMaterial/Papers/Sem 4/PEM/S 2021.pdf"
+                        },
+                        {
+                            "name": "S 2022",
+                            "link": "https://cselearninghub.github.io/CseMaterial/Papers/Sem 4/PEM/S 2022.pdf"
                         }
                     ]
                 }
