@@ -10,15 +10,15 @@
                     "papers": [
                         {
                             "name": "W 2019",
-                            "link": "https://mrharsh007.github.io/GtuMaterialJson/Papers/Sem%203/DS/W%202019.pdf"
+                            "link": "https://cselearninghub.github.io/CseMaterial/Papers/Sem%203/DS/W%202019.pdf"
                         },
                         {
                             "name": "S 2019",
-                            "link": "https://mrharsh007.github.io/GtuMaterialJson/Papers/Sem%203/DS/W%202019.pdf"
+                            "link": "https://cselearninghub.github.io/CseMaterial/Papers/Sem%203/DS/W%202019.pdf"
                         },
                         {
                             "name": "W 2020",
-                            "link": "https://mrharsh007.github.io/GtuMaterialJson/Papers/Sem%203/DS/W%202019.pdf"
+                            "link": "https://cselearninghub.github.io/CseMaterial/Papers/Sem%203/DS/W%202019.pdf"
                         }
                     ]
                 },
@@ -28,15 +28,15 @@
                     "papers": [
                         {
                             "name": "W 2019",
-                            "link": "https://mrharsh007.github.io/GtuMaterialJson/Papers/Sem%203/DBMS/W%202019.pdf"
+                            "link": "https://cselearninghub.github.io/CseMaterial/Papers/Sem%203/DBMS/W%202019.pdf"
                         },
                         {
                             "name": "S 2019",
-                            "link": "https://mrharsh007.github.io/GtuMaterialJson/Papers/Sem%203/DBMS/W%202019.pdf"
+                            "link": "https://cselearninghub.github.io/CseMaterial/Papers/Sem%203/DBMS/W%202019.pdf"
                         },
                         {
                             "name": "W 2020",
-                            "link": "https://mrharsh007.github.io/GtuMaterialJson/Papers/Sem%203/DBMS/W%202019.pdf"
+                            "link": "https://cselearninghub.github.io/CseMaterial/Papers/Sem%203/DBMS/W%202019.pdf"
                         }
                     ]
                 }
@@ -52,15 +52,33 @@
                     "papers": [
                         {
                             "name": "W 2019",
-                            "link": "https://mrharsh007.github.io/GtuMaterialJson/Papers/Sem%203/DS/W%202019.pdf"
+                            "link": "https://cselearninghub.github.io/CseMaterial/Papers/Sem%203/DS/W%202019.pdf"
                         },
                         {
                             "name": "S 2019",
-                            "link": "https://mrharsh007.github.io/GtuMaterialJson/Papers/Sem%203/DS/W%202019.pdf"
+                            "link": "https://cselearninghub.github.io/CseMaterial/Papers/Sem%203/DS/W%202019.pdf"
                         },
                         {
                             "name": "W 2020",
-                            "link": "https://mrharsh007.github.io/GtuMaterialJson/Papers/Sem%203/DS/W%202019.pdf"
+                            "link": "https://cselearninghub.github.io/CseMaterial/Papers/Sem%203/DS/W%202019.pdf"
+                        }
+                    ]
+                },
+                {
+                    "id": "1",
+                    "name": "DBMS",
+                    "papers": [
+                        {
+                            "name": "W 2019",
+                            "link": "https://cselearninghub.github.io/CseMaterial/Papers/Sem%203/DBMS/W%202019.pdf"
+                        },
+                        {
+                            "name": "S 2019",
+                            "link": "https://cselearninghub.github.io/CseMaterial/Papers/Sem%203/DBMS/W%202019.pdf"
+                        },
+                        {
+                            "name": "W 2020",
+                            "link": "https://cselearninghub.github.io/CseMaterial/Papers/Sem%203/DBMS/W%202019.pdf"
                         }
                     ]
                 }
