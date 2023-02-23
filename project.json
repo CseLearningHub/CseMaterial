@@ -3,11 +3,13 @@
         {
             "id": "0",
             "name": "Library Managment System",
+            "desc":"Sem:5",
             "report": "https://cselearninghub.github.io/CseMaterial/Projects/Library Managment.pdf"
         },
         {
             "id": "1",
             "name": "OPD Appointment System",
+            "desc":"Sem:5",
             "report": "https://cselearninghub.github.io/CseMaterial/Projects/OPD Appointment System.pdf"
         }
     ]
