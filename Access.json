@@ -2,7 +2,7 @@
     "Users": [
         {
             "id": "Harsh Porwal",
-            "serial": "76e2d0"
+            "serial": "76e2d"
         },
         {
             "id": "Payal Vanzara",
@@ -11,6 +11,10 @@
         {
             "id": "Simran Modha",
             "serial": "7cf62"
+        },
+        {
+            "id": "Pixel Emulator",
+            "serial": "9e049"
         }
     ]
 }
