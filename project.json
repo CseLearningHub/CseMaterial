@@ -11,6 +11,42 @@
             "name": "OPD Appointment System",
             "desc":"Sem:5",
             "report": "https://cselearninghub.github.io/CseMaterial/Projects/OPD Appointment System.pdf"
+        },
+        {
+            "id": "2",
+            "name": "Mending & Breakdown",
+            "desc":"Sem:5",
+            "report": "https://cselearninghub.github.io/CseMaterial/Projects/Mending & Breakdown.pdf"
+        },
+        {
+            "id": "3",
+            "name": "Digital Wellness",
+            "desc":"Sem:5",
+            "report": "https://cselearninghub.github.io/CseMaterial/Projects/Digital Wellness.pdf"
+        },
+        {
+            "id": "4",
+            "name": "OPD Appointment Online",
+            "desc":"Sem:6",
+            "report": "https://cselearninghub.github.io/CseMaterial/Projects/OPD Appointment Online.pdf"
+        },
+        {
+            "id": "5",
+            "name": "Labs & Service",
+            "desc":"Sem:3",
+            "report": "https://cselearninghub.github.io/CseMaterial/Projects/Labs and Services.pdf"
+        },
+        {
+            "id": "6",
+            "name": "Decentralized Chat Web App",
+            "desc":"Sem:3",
+            "report": "https://cselearninghub.github.io/CseMaterial/Projects/Decentralized Chat Web App.pdf"
+        },
+        {
+            "id": "7",
+            "name": "Blind Stick",
+            "desc":"Sem:3",
+            "report": "https://cselearninghub.github.io/CseMaterial/Projects/Blind Stick.pdf"
         }
     ]
 }
