@@ -99,6 +99,10 @@
         {
             "name": "Redmi 9i",
             "serial": "f415f"
+        },
+        {
+            "name": "Palak",
+            "serial": "5cef5"
         }
     ]
 }
