@@ -267,7 +267,7 @@
                     "name": "Microprocessor and Interfacing",
                     "desc": "MPI : 3160712",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem6/syllabus/mpi.pdf",
-                    "material": "https://cselearninghub.github.io/CseMaterial/Sem6/material/mi.pdf",
+                    "material": "https://cselearninghub.github.io/CseMaterial/Sem6/material/MPINotes.pdf",
                     "image": "https://cselearninghub.github.io/CseMaterial/Sem6/icon/mpi.jpg"
                 },
                 {
@@ -291,7 +291,7 @@
                     "name": "IOT and Applications",
                     "desc": "IOT : 3160716",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem6/syllabus/iot.pdf",
-                    "material": "https://cselearninghub.github.io/CseMaterial/Sem6/material/IOT.pdf",
+                    "material": "https://cselearninghub.github.io/CseMaterial/Sem6/material/IOTNotes.pdf",
                     "image": "https://cselearninghub.github.io/CseMaterial/Sem6/icon/iot.jpg"
                 }
             ]
