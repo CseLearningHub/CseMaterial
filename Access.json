@@ -98,7 +98,7 @@
         },
         {
             "name": "Redmi 9i",
-            "serial": "f41500"
+            "serial": "f415f"
         },
         {
             "name": "Palak",
@@ -147,6 +147,10 @@
         {
             "name": "Krish Radadiya",
             "serial": "9527e"
+        },
+        {
+            "name": "Pratham kalsariya",
+            "serial": "4f89c"
         }
     ]
 }
