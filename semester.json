@@ -256,20 +256,21 @@
                 },
                 {
                     "id": 1,
-                    "name": "Advance java Programming",
-                    "desc": "A.Java : 3160707",
-                    "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem6/syllabus/ajava.pdf",
-                    "material": "https://cselearninghub.github.io/CseMaterial/Sem6/material/ajava.pdf",
-                    "image": "https://cselearninghub.github.io/CseMaterial/Sem6/icon/ajava.jpg"
-                },
-                {
-                    "id": 2,
                     "name": "Microprocessor and Interfacing",
                     "desc": "MPI : 3160712",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem6/syllabus/mpi.pdf",
                     "material": "https://cselearninghub.github.io/CseMaterial/Sem6/material/MPINotes.pdf",
                     "image": "https://cselearninghub.github.io/CseMaterial/Sem6/icon/mpi.jpg"
                 },
+                {
+                    "id": 2,
+                    "name": "Advance java Programming",
+                    "desc": "A.Java : 3160707",
+                    "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem6/syllabus/ajava.pdf",
+                    "material": "https://cselearninghub.github.io/CseMaterial/Sem6/material/ajava.pdf",
+                    "image": "https://cselearninghub.github.io/CseMaterial/Sem6/icon/ajava.jpg"
+                },
+                
                 {
                     "id": 3,
                     "name": "WEB Programming",
