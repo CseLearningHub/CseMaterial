@@ -246,8 +246,24 @@
             "icon": "https://cselearninghub.github.io/CseMaterial/semIcon/sem6.png",
             "desc": "CS/IT Material",
             "source": [
-                {
+                 {
                     "id": 0,
+                    "name": "System Software",
+                    "desc": "SS by BH",
+                    "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem6/syllabus/ss.pdf",
+                    "material": "https://cselearninghub.github.io/CseMaterial/Sem6/material/SEM-6%20SS.pdf",
+                    "image": "https://cselearninghub.github.io/CseMaterial/Sem6/icon/toc.jpg"
+                },
+                {
+                    "id": 1,
+                    "name": "System Software Paper",
+                    "desc": "SS : 3160715",
+                    "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem6/syllabus/ss.pdf",
+                    "material": "https://cselearninghub.github.io/CseMaterial/Sem6/material/Ss%20gtu%20book%20.pdf",
+                    "image": "https://cselearninghub.github.io/CseMaterial/Sem6/icon/toc.jpg"
+                },
+                {
+                    "id": 2,
                     "name": "Theory of Computation",
                     "desc": "TOC : 3160704",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem6/syllabus/toc.pdf",
@@ -255,7 +271,7 @@
                     "image": "https://cselearninghub.github.io/CseMaterial/Sem6/icon/toc.jpg"
                 },
                 {
-                    "id": 1,
+                    "id": 3,
                     "name": "Advance java Programming",
                     "desc": "A.Java : 3160707",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem6/syllabus/ajava.pdf",
@@ -263,7 +279,7 @@
                     "image": "https://cselearninghub.github.io/CseMaterial/Sem6/icon/ajava.jpg"
                 },
                 {
-                    "id": 2,
+                    "id": 4,
                     "name": "Microprocessor and Interfacing",
                     "desc": "MPI : 3160712",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem6/syllabus/mpi.pdf",
@@ -271,7 +287,7 @@
                     "image": "https://cselearninghub.github.io/CseMaterial/Sem6/icon/mpi.jpg"
                 },
                 {
-                    "id": 3,
+                    "id": 5,
                     "name": "WEB Programming",
                     "desc": "WP : 3160713",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem6/syllabus/wp.pdf",
@@ -279,7 +295,7 @@
                     "image": "https://cselearninghub.github.io/CseMaterial/Sem6/icon/wp.jpg"
                 },
                 {
-                    "id": 4,
+                    "id": 6,
                     "name": "IOT and Applications",
                     "desc": "IOT : 3160716",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem6/syllabus/iot.pdf",
@@ -287,7 +303,7 @@
                     "image": "https://cselearninghub.github.io/CseMaterial/Sem6/icon/iot.jpg"
                 },
                 {
-                    "id": 5,
+                    "id": 7,
                     "name": "Data Mining",
                     "desc": "DM : 3160714",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem6/syllabus/dm.pdf",
