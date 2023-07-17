@@ -144,6 +144,14 @@
             "source": [
                 {
                     "id": 0,
+                    "name": "OOP-1 Solved Paper",
+                    "desc": "OOP : 3140705",
+                    "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem4/syllabus/oop.pdf",
+                    "material": "https://cselearninghub.github.io/CseMaterial/Sem4/material/FinalOopPaperSecure.pdf",
+                    "image": "https://cselearninghub.github.io/CseMaterial/Sem4/icon/oop.jpg"
+                },
+                {
+                    "id": 1,
                     "name": "Object Oriented Programming - 1",
                     "desc": "OOP : 3140705",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem4/syllabus/oop.pdf",
@@ -151,7 +159,7 @@
                     "image": "https://cselearninghub.github.io/CseMaterial/Sem4/icon/oop.jpg"
                 },
                 {
-                    "id": 1,
+                    "id": 2,
                     "name": "Operating System",
                     "desc": "OS : 3140702 ",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem4/syllabus/os.pdf",
@@ -159,7 +167,7 @@
                     "image": "https://cselearninghub.github.io/CseMaterial/Sem4/icon/os.jpg"
                 },
                 {
-                    "id": 2,
+                    "id": 3,
                     "name": "Computer Organization & Architecture",
                     "desc": "COA : 3140707",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem4/syllabus/coa.pdf",
@@ -167,7 +175,7 @@
                     "image": "https://cselearninghub.github.io/CseMaterial/Sem4/icon/coa.jpg"
                 },
                 {
-                    "id": 3,
+                    "id": 4,
                     "name": "Discrete Mathematics",
                     "desc": "DM : 3140708",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem4/syllabus/dm.pdf",
@@ -175,7 +183,7 @@
                     "image": "https://cselearninghub.github.io/CseMaterial/Sem4/icon/dm.jpg"
                 },
                 {
-                    "id": 4,
+                    "id": 5,
                     "name": " Principles Of Economics And Management",
                     "desc": "PEM : 3140709",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem4/syllabus/pem.pdf",
