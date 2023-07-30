@@ -8,7 +8,7 @@
             "source": [
                  {
                     "id": 0,
-                    "name": "Mathematics-II (Ch: 1, 2)",
+                    "name": "Mathematics-II\n(Ch: 1, 2)",
                     "desc": "HandWritten",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem1/syllabus/maths2.pdf",
                     "material": "https://cselearninghub.github.io/CseMaterial/Sem1/material/maths2Ch1to2.pdf",
@@ -16,7 +16,7 @@
                 },
                  {
                     "id": 1,
-                    "name": "Mathematics-II (Ch: 3 to 6)",
+                    "name": "Mathematics-II\n(Ch: 3 to 6)",
                     "desc": "HandWritten",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem1/syllabus/maths2.pdf",
                     "material": "https://cselearninghub.github.io/CseMaterial/Sem1/material/maths2Ch3to6.pdf",
