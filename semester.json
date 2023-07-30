@@ -6,8 +6,24 @@
             "icon": "https://cselearninghub.github.io/CseMaterial/semIcon/sem1.png",
             "desc": "CS/IT Material",
             "source": [
-                {
+                 {
                     "id": 0,
+                    "name": "Mathematics-II (Ch: 1, 2)",
+                    "desc": "HandWritten",
+                    "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem1/syllabus/maths2.pdf",
+                    "material": "https://cselearninghub.github.io/CseMaterial/Sem1/material/maths2Ch1to2.pdf",
+                    "image": "https://cselearninghub.github.io/CseMaterial/Sem1/icon/maths2.jpg"
+                },
+                 {
+                    "id": 1,
+                    "name": "Mathematics-II (Ch: 3 to 6)",
+                    "desc": "HandWritten",
+                    "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem1/syllabus/maths2.pdf",
+                    "material": "https://cselearninghub.github.io/CseMaterial/Sem1/material/maths2Ch3to6.pdf",
+                    "image": "https://cselearninghub.github.io/CseMaterial/Sem1/icon/maths2.jpg"
+                },
+                {
+                    "id": 2,
                     "name": "Mathematics-I",
                     "desc": "Math-1 : 3110014",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem1/syllabus/maths1.pdf",
@@ -15,7 +31,7 @@
                     "image": "https://cselearninghub.github.io/CseMaterial/Sem1/icon/maths1.jpg"
                 },
                 {
-                    "id": 1,
+                    "id": 3,
                     "name": "Physics Group - II ",
                     "desc": "Phy-2 : 3110018 ",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem1/syllabus/physics2.pdf",
@@ -23,7 +39,7 @@
                     "image": "https://cselearninghub.github.io/CseMaterial/Sem1/icon/physics2.jpg"
                 },
                 {
-                    "id": 2,
+                    "id": 4,
                     "name": "Engineering Graphics & Design",
                     "desc": "EGD : 3110013",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem1/syllabus/egd.pdf",
@@ -31,7 +47,7 @@
                     "image": "https://cselearninghub.github.io/CseMaterial/Sem1/icon/egd.jpg"
                 },
                 {
-                    "id": 3,
+                    "id": 5,
                     "name": "Basic Electrical Engineering",
                     "desc": "BEE : 3110005",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem1/syllabus/bee.pdf",
@@ -39,7 +55,7 @@
                     "image": "https://cselearninghub.github.io/CseMaterial/Sem1/icon/bee.jpg"
                 },
                 {
-                    "id": 4,
+                    "id": 6,
                     "name": "Environmental Science",
                     "desc": "ES : 3110007",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem1/syllabus/es.pdf",
@@ -47,7 +63,7 @@
                     "image": "https://cselearninghub.github.io/CseMaterial/Sem1/icon/es.jpg"
                 },
                 {
-                    "id": 5,
+                    "id": 7,
                     "name": "Basic Electronics",
                     "desc": "BE : 3110016",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem1/syllabus/be.pdf",
@@ -55,7 +71,7 @@
                     "image": "https://cselearninghub.github.io/CseMaterial/Sem1/icon/be.jpg"
                 },
                 {
-                    "id": 6,
+                    "id": 8,
                     "name": "Mathematics-II",
                     "desc": "Maths-2 : 3110015",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem1/syllabus/maths2.pdf",
@@ -63,7 +79,7 @@
                     "image": "https://cselearninghub.github.io/CseMaterial/Sem1/icon/maths2.jpg"
                 },
                 {
-                    "id": 7,
+                    "id": 9,
                     "name": "Programming for Problem Solving",
                     "desc": "Maths-2 : 3110003",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem1/syllabus/pps.pdf",
@@ -71,7 +87,7 @@
                     "image": "https://cselearninghub.github.io/CseMaterial/Sem1/icon/pps.jpg"
                 },
                 {
-                    "id": 8,
+                    "id": 10,
                     "name": "Basic Mechanical Engineering",
                     "desc": "BME : 3110006",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem1/syllabus/bme.pdf",
