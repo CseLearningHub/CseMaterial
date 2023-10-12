@@ -358,44 +358,46 @@
                     "material": "https://cselearninghub.github.io/CseMaterial/Sem7/material/cd.pdf",
                     "image": "https://cselearninghub.github.io/CseMaterial/Sem7/icon/cd.jpg"
                 },
+
                 {
                     "id": 1,
-                    "name": "Mobile Computing and Wireless communication ",
-                    "desc": "MCWC : 3170710",
-                    "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem7/syllabus/mcwc.pdf",
-                    "material": "https://cselearninghub.github.io/CseMaterial/Sem7/material/mcwc.pdf",
-                    "image": "https://cselearninghub.github.io/CseMaterial/Sem7/icon/mcwc.jpg"
-                },
-                {
-                    "id": 2,
                     "name": "Artificial Intelligence ",
                     "desc": "AI : 3170716",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem7/syllabus/ai.pdf",
-                    "material": "https://cselearninghub.github.io/CseMaterial/Sem7/material/ai.pdf",
+                    "material": "https://cselearninghub.github.io/CseMaterial/Sem7/qb/AIQue.pdf",
                     "image": "https://cselearninghub.github.io/CseMaterial/Sem7/icon/ai.jpg"
                 },
                 {
-                    "id": 3,
-                    "name": "Distributed System ",
-                    "desc": "DS : 3170719",
+                    "id": 2,
+                    "name": "Cloud Computing",
+                    "desc": "CC : 3170717",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem7/syllabus/ds.pdf",
-                    "material": "https://cselearninghub.github.io/CseMaterial/Sem7/material/ds.pdf",
+                    "material": "https://cselearninghub.github.io/CseMaterial/Sem7/qb/CCQue.pdf",
                     "image": "https://cselearninghub.github.io/CseMaterial/Sem7/icon/ds.jpg"
                 },
                 {
-                    "id": 4,
-                    "name": "Big Data Analytics ",
-                    "desc": "BDA : 3170722",
+                    "id": 3,
+                    "name": "Information & Security",
+                    "desc": "IS : 3170720",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem7/syllabus/bda.pdf",
-                    "material": "https://cselearninghub.github.io/CseMaterial/Sem7/material/bda.pdf",
+                    "material": "https://cselearninghub.github.io/CseMaterial/Sem7/qb/ISQue.pdf",
                     "image": "https://cselearninghub.github.io/CseMaterial/Sem7/icon/bda.jpg"
                 },
                 {
-                    "id": 5,
+                    "id": 4,
                     "name": "Mobile Application Development",
                     "desc": "MAD : 3170726",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem7/syllabus/mad.pdf",
-                    "material": "https://cselearninghub.github.io/CseMaterial/Sem7/material/mad.pdf",
+                    "material": "https://cselearninghub.github.io/CseMaterial/Sem7/qb/MADQue.pdf",
+                    "image": "https://cselearninghub.github.io/CseMaterial/Sem7/icon/mad.jpg"
+                }
+                ,
+                {
+                    "id": 5,
+                    "name": "Machine Learning",
+                    "desc": "ML : 3170724",
+                    "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem7/syllabus/mad.pdf",
+                    "material": "https://cselearninghub.github.io/CseMaterial/Sem7/qb/MLQue.pdf",
                     "image": "https://cselearninghub.github.io/CseMaterial/Sem7/icon/mad.jpg"
                 }
             ]
