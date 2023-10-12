@@ -346,6 +346,62 @@
         },
         {
             "id": "5",
+            "name": "Sem - 7 (Question Bank)",
+            "icon": "https://cselearninghub.github.io/CseMaterial/semIcon/sem7.png",
+            "desc": "CS/IT Material",
+            "source": [
+                {
+                    "id": 0,
+                    "name": "Compiler Design",
+                    "desc": "CD : 3170701",
+                    "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem7/syllabus/cd.pdf",
+                    "material": "https://cselearninghub.github.io/CseMaterial/Sem7/material/cd.pdf",
+                    "image": "https://cselearninghub.github.io/CseMaterial/Sem7/icon/cd.jpg"
+                },
+                {
+                    "id": 1,
+                    "name": "Mobile Computing and Wireless communication ",
+                    "desc": "MCWC : 3170710",
+                    "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem7/syllabus/mcwc.pdf",
+                    "material": "https://cselearninghub.github.io/CseMaterial/Sem7/material/mcwc.pdf",
+                    "image": "https://cselearninghub.github.io/CseMaterial/Sem7/icon/mcwc.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Artificial Intelligence ",
+                    "desc": "AI : 3170716",
+                    "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem7/syllabus/ai.pdf",
+                    "material": "https://cselearninghub.github.io/CseMaterial/Sem7/material/ai.pdf",
+                    "image": "https://cselearninghub.github.io/CseMaterial/Sem7/icon/ai.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "Distributed System ",
+                    "desc": "DS : 3170719",
+                    "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem7/syllabus/ds.pdf",
+                    "material": "https://cselearninghub.github.io/CseMaterial/Sem7/material/ds.pdf",
+                    "image": "https://cselearninghub.github.io/CseMaterial/Sem7/icon/ds.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "Big Data Analytics ",
+                    "desc": "BDA : 3170722",
+                    "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem7/syllabus/bda.pdf",
+                    "material": "https://cselearninghub.github.io/CseMaterial/Sem7/material/bda.pdf",
+                    "image": "https://cselearninghub.github.io/CseMaterial/Sem7/icon/bda.jpg"
+                },
+                {
+                    "id": 5,
+                    "name": "Mobile Application Development",
+                    "desc": "MAD : 3170726",
+                    "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem7/syllabus/mad.pdf",
+                    "material": "https://cselearninghub.github.io/CseMaterial/Sem7/material/mad.pdf",
+                    "image": "https://cselearninghub.github.io/CseMaterial/Sem7/icon/mad.jpg"
+                }
+            ]
+        },
+        {
+            "id": "6",
             "name": "Sem - 7",
             "icon": "https://cselearninghub.github.io/CseMaterial/semIcon/sem7.png",
             "desc": "CS/IT Material",
