@@ -352,15 +352,6 @@
             "source": [
                 {
                     "id": 0,
-                    "name": "Compiler Design",
-                    "desc": "CD : 3170701",
-                    "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem7/syllabus/cd.pdf",
-                    "material": "https://cselearninghub.github.io/CseMaterial/Sem7/material/cd.pdf",
-                    "image": "https://cselearninghub.github.io/CseMaterial/Sem7/icon/cd.jpg"
-                },
-
-                {
-                    "id": 1,
                     "name": "Artificial Intelligence ",
                     "desc": "AI : 3170716",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem7/syllabus/ai.pdf",
@@ -368,7 +359,7 @@
                     "image": "https://cselearninghub.github.io/CseMaterial/Sem7/icon/ai.jpg"
                 },
                 {
-                    "id": 2,
+                    "id": 1,
                     "name": "Cloud Computing",
                     "desc": "CC : 3170717",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem7/syllabus/ds.pdf",
@@ -376,7 +367,7 @@
                     "image": "https://cselearninghub.github.io/CseMaterial/Sem7/icon/ds.jpg"
                 },
                 {
-                    "id": 3,
+                    "id": 2,
                     "name": "Information & Security",
                     "desc": "IS : 3170720",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem7/syllabus/bda.pdf",
@@ -384,7 +375,7 @@
                     "image": "https://cselearninghub.github.io/CseMaterial/Sem7/icon/bda.jpg"
                 },
                 {
-                    "id": 4,
+                    "id": 3,
                     "name": "Mobile Application Development",
                     "desc": "MAD : 3170726",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem7/syllabus/mad.pdf",
@@ -393,7 +384,7 @@
                 }
                 ,
                 {
-                    "id": 5,
+                    "id": 4,
                     "name": "Machine Learning",
                     "desc": "ML : 3170724",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem7/syllabus/mad.pdf",
