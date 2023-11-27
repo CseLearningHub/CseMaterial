@@ -362,17 +362,17 @@
                     "id": 1,
                     "name": "Cloud Computing",
                     "desc": "CC : 3170717",
-                    "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem7/syllabus/ds.pdf",
+                    "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem7/syllabus/cc.pdf",
                     "material": "https://cselearninghub.github.io/CseMaterial/Sem7/qb/CCQue.pdf",
-                    "image": "https://cselearninghub.github.io/CseMaterial/Sem7/icon/ds.jpg"
+                    "image": "https://cselearninghub.github.io/CseMaterial/Sem7/icon/cc.jpg"
                 },
                 {
                     "id": 2,
                     "name": "Information & Security",
                     "desc": "IS : 3170720",
-                    "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem7/syllabus/bda.pdf",
+                    "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem7/syllabus/is.pdf",
                     "material": "https://cselearninghub.github.io/CseMaterial/Sem7/qb/ISQue.pdf",
-                    "image": "https://cselearninghub.github.io/CseMaterial/Sem7/icon/bda.jpg"
+                    "image": "https://cselearninghub.github.io/CseMaterial/Sem7/icon/is.jpg"
                 },
                 {
                     "id": 3,
@@ -387,15 +387,32 @@
                     "id": 4,
                     "name": "Machine Learning",
                     "desc": "ML : 3170724",
-                    "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem7/syllabus/mad.pdf",
+                    "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem7/syllabus/ml.pdf",
                     "material": "https://cselearninghub.github.io/CseMaterial/Sem7/qb/MLQue.pdf",
-                    "image": "https://cselearninghub.github.io/CseMaterial/Sem7/icon/mad.jpg"
+                    "image": "https://cselearninghub.github.io/CseMaterial/Sem7/icon/ml.jpg"
                 }
             ]
         },
         {
             "id": "6",
-            "name": "Sem - 7",
+            "name": "Sem - 7 (Ans)",
+            "icon": "https://cselearninghub.github.io/CseMaterial/semIcon/sem7.png",
+            "desc": "CS/IT Material",
+            "source": [
+                {
+                    "id": 0,
+                    "name": "Machine Learning",
+                    "desc": "ML : 3170724",
+                    "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem7/syllabus/ml.pdf",
+                    "material": "https://cselearninghub.github.io/CseMaterial/Sem7/notes/ML.pdf",
+                    "image": "https://cselearninghub.github.io/CseMaterial/Sem7/icon/ml.jpg"
+                }
+              
+            ]
+        },
+        {
+            "id": "7",
+            "name": "Sem - 7 (Other)",
             "icon": "https://cselearninghub.github.io/CseMaterial/semIcon/sem7.png",
             "desc": "CS/IT Material",
             "source": [
