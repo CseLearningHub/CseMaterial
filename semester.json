@@ -406,6 +406,14 @@
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem7/syllabus/ml.pdf",
                     "material": "https://cselearninghub.github.io/CseMaterial/Sem7/notes/ML.pdf",
                     "image": "https://cselearninghub.github.io/CseMaterial/Sem7/icon/ml.jpg"
+                },
+                {
+                    "id": 1,
+                    "name": "Compiler Design",
+                    "desc": "ML : 3170701",
+                    "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem7/syllabus/cd.pdf",
+                    "material": "https://cselearninghub.github.io/CseMaterial/Sem7/notes/CD.pdf",
+                    "image": "https://cselearninghub.github.io/CseMaterial/Sem7/icon/cd.jpg"
                 }
               
             ]
