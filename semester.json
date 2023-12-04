@@ -410,10 +410,18 @@
                 {
                     "id": 1,
                     "name": "Compiler Design",
-                    "desc": "ML : 3170701",
+                    "desc": "CD : 3170701",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem7/syllabus/cd.pdf",
                     "material": "https://cselearninghub.github.io/CseMaterial/Sem7/notes/CD.pdf",
                     "image": "https://cselearninghub.github.io/CseMaterial/Sem7/icon/cd.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Cloud Computing",
+                    "desc": "CC : 3170717",
+                    "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem7/syllabus/cc.pdf",
+                    "material": "https://cselearninghub.github.io/CseMaterial/Sem7/notes/CC.pdf",
+                    "image": "https://cselearninghub.github.io/CseMaterial/Sem7/icon/cc.jpg"
                 }
               
             ]
