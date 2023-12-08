@@ -422,6 +422,22 @@
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem7/syllabus/cc.pdf",
                     "material": "https://cselearninghub.github.io/CseMaterial/Sem7/notes/CC.pdf",
                     "image": "https://cselearninghub.github.io/CseMaterial/Sem7/icon/cc.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "Artificial Intelligence",
+                    "desc": "AI : 3170716",
+                    "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem7/syllabus/ai.pdf",
+                    "material": "https://cselearninghub.github.io/CseMaterial/Sem7/notes/AI.pdf",
+                    "image": "https://cselearninghub.github.io/CseMaterial/Sem7/icon/ai.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "Mobile Application Development",
+                    "desc": "MAD : 3170726",
+                    "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem7/syllabus/mad.pdf",
+                    "material": "https://cselearninghub.github.io/CseMaterial/Sem7/notes/MAD.pdf",
+                    "image": "https://cselearninghub.github.io/CseMaterial/Sem7/icon/mad.jpg"
                 }
               
             ]
