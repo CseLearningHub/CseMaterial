@@ -438,6 +438,14 @@
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem7/syllabus/mad.pdf",
                     "material": "https://cselearninghub.github.io/CseMaterial/Sem7/notes/MAD.pdf",
                     "image": "https://cselearninghub.github.io/CseMaterial/Sem7/icon/mad.jpg"
+                },
+                {
+                    "id": 5,
+                    "name": "InformaƟon Security ",
+                    "desc": "IS : 3170720",
+                    "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem7/syllabus/is.pdf",
+                    "material": "https://cselearninghub.github.io/CseMaterial/Sem7/notes/IS.pdf",
+                    "image": "https://cselearninghub.github.io/CseMaterial/Sem7/icon/is.jpg"
                 }
               
             ]
