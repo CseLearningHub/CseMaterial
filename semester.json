@@ -6,7 +6,7 @@
             "icon": "https://cselearninghub.github.io/CseMaterial/semIcon/sem1.png",
             "desc": "CS/IT Material",
             "source": [
-                 {
+                {
                     "id": 0,
                     "name": "Mathematics-II\n(Ch: 1, 2)",
                     "desc": "HandWritten",
@@ -14,7 +14,7 @@
                     "material": "https://cselearninghub.github.io/CseMaterial/Sem1/material/maths2Ch1to2.pdf",
                     "image": "https://cselearninghub.github.io/CseMaterial/Sem1/icon/maths2.jpg"
                 },
-                 {
+                {
                     "id": 1,
                     "name": "Mathematics-II\n(Ch: 3 to 6)",
                     "desc": "HandWritten",
@@ -114,8 +114,8 @@
                     "id": 1,
                     "name": "DBMS (Solved Paper)",
                     "desc": " DBMS: 3130703",
-                    "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem3/syllabus/dbmspaper.pdf",
-                    "material": "https://cselearninghub.github.io/CseMaterial/Sem3/material/dbms.pdf",
+                    "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem3/syllabus/dbms.pdf",
+                    "material": "https://cselearninghub.github.io/CseMaterial/Sem3/material/dbmspaper.pdf",
                     "image": "https://cselearninghub.github.io/CseMaterial/Sem3/icon/dbms.jpg"
                 },
                 {
@@ -136,14 +136,6 @@
                 },
                 {
                     "id": 4,
-                    "name": "Indian Constitution",
-                    "desc": "IC : 3130007",
-                    "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem3/syllabus/ic.pdf",
-                    "material": "https://cselearninghub.github.io/CseMaterial/Sem3/material/ic.pdf",
-                    "image": "https://cselearninghub.github.io/CseMaterial/Sem3/icon/ic.jpg"
-                },
-                {
-                    "id": 5,
                     "name": "Probability & Statistics",
                     "desc": "PS : 3130006",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem3/syllabus/ps.pdf",
@@ -151,7 +143,39 @@
                     "image": "https://cselearninghub.github.io/CseMaterial/Sem3/icon/ps.jpg"
                 },
                 {
+                    "id": 5,
+                    "name": "DBMS (LJ)",
+                    "desc": " DBMS: 3130703",
+                    "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem3/syllabus/dbms.pdf",
+                    "material": "https://cselearninghub.github.io/CseMaterial/Sem3/material/dbmslj.pdf",
+                    "image": "https://cselearninghub.github.io/CseMaterial/Sem3/icon/dbms.jpg"
+                },
+                {
                     "id": 6,
+                    "name": "DF (LJ)",
+                    "desc": "DF : 3130704 ",
+                    "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem3/syllabus/df.pdf",
+                    "material": "https://cselearninghub.github.io/CseMaterial/Sem3/material/dflj.pdf",
+                    "image": "https://cselearninghub.github.io/CseMaterial/Sem3/icon/df.jpg"
+                },
+                {
+                    "id": 7,
+                    "name": "DS (LJ)",
+                    "desc": "DS : 3130702",
+                    "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem3/syllabus/ds.pdf",
+                    "material": "https://cselearninghub.github.io/CseMaterial/Sem3/material/dslj.pdf",
+                    "image": "https://cselearninghub.github.io/CseMaterial/Sem3/icon/ds.jpg"
+                },
+                {
+                    "id": 8,
+                    "name": "Indian Constitution",
+                    "desc": "IC : 3130007",
+                    "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem3/syllabus/ic.pdf",
+                    "material": "https://cselearninghub.github.io/CseMaterial/Sem3/material/ic.pdf",
+                    "image": "https://cselearninghub.github.io/CseMaterial/Sem3/icon/ic.jpg"
+                },
+                {
+                    "id": 9,
                     "name": "Effective Technical Communication",
                     "desc": "ETC : 3130004",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem3/syllabus/etc.pdf",
@@ -278,7 +302,7 @@
             "icon": "https://cselearninghub.github.io/CseMaterial/semIcon/sem6.png",
             "desc": "CS/IT Material",
             "source": [
-                 {
+                {
                     "id": 0,
                     "name": "System Software",
                     "desc": "SS by BH",
@@ -389,8 +413,7 @@
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem7/syllabus/mad.pdf",
                     "material": "https://cselearninghub.github.io/CseMaterial/Sem7/qb/MADQue.pdf",
                     "image": "https://cselearninghub.github.io/CseMaterial/Sem7/icon/mad.jpg"
-                }
-                ,
+                },
                 {
                     "id": 4,
                     "name": "Machine Learning",
@@ -455,7 +478,6 @@
                     "material": "https://cselearninghub.github.io/CseMaterial/Sem7/notes/IS.pdf",
                     "image": "https://cselearninghub.github.io/CseMaterial/Sem7/icon/is.jpg"
                 }
-              
             ]
         },
         {
