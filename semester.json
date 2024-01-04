@@ -105,13 +105,21 @@
                 {
                     "id": 0,
                     "name": "Database Managment System",
-                    "desc": " : 3130703",
+                    "desc": " DBMS: 3130703",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem3/syllabus/dbms.pdf",
                     "material": "https://cselearninghub.github.io/CseMaterial/Sem3/material/dbms.pdf",
                     "image": "https://cselearninghub.github.io/CseMaterial/Sem3/icon/dbms.jpg"
                 },
                 {
                     "id": 1,
+                    "name": "DBMS (Solved Paper)",
+                    "desc": " DBMS: 3130703",
+                    "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem3/syllabus/dbmspaper.pdf",
+                    "material": "https://cselearninghub.github.io/CseMaterial/Sem3/material/dbms.pdf",
+                    "image": "https://cselearninghub.github.io/CseMaterial/Sem3/icon/dbms.jpg"
+                },
+                {
+                    "id": 2,
                     "name": "Digital Fundamental",
                     "desc": "DF : 3130704 ",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem3/syllabus/df.pdf",
@@ -119,7 +127,7 @@
                     "image": "https://cselearninghub.github.io/CseMaterial/Sem3/icon/df.jpg"
                 },
                 {
-                    "id": 2,
+                    "id": 3,
                     "name": "Data Structure",
                     "desc": "DS : 3130702",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem3/syllabus/ds.pdf",
@@ -127,7 +135,7 @@
                     "image": "https://cselearninghub.github.io/CseMaterial/Sem3/icon/ds.jpg"
                 },
                 {
-                    "id": 3,
+                    "id": 4,
                     "name": "Indian Constitution",
                     "desc": "IC : 3130007",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem3/syllabus/ic.pdf",
@@ -135,7 +143,7 @@
                     "image": "https://cselearninghub.github.io/CseMaterial/Sem3/icon/ic.jpg"
                 },
                 {
-                    "id": 4,
+                    "id": 5,
                     "name": "Probability & Statistics",
                     "desc": "PS : 3130006",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem3/syllabus/ps.pdf",
@@ -143,7 +151,7 @@
                     "image": "https://cselearninghub.github.io/CseMaterial/Sem3/icon/ps.jpg"
                 },
                 {
-                    "id": 5,
+                    "id": 6,
                     "name": "Effective Technical Communication",
                     "desc": "ETC : 3130004",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem3/syllabus/etc.pdf",
