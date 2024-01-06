@@ -192,14 +192,6 @@
             "source": [
                 {
                     "id": 0,
-                    "name": "OOP-1 Solved Paper (W_S: 2021 & 2022)",
-                    "desc": "OOP : 3140705",
-                    "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem4/syllabus/oop.pdf",
-                    "material": "https://cselearninghub.github.io/CseMaterial/Sem4/material/FinalOopPaperSecure.pdf",
-                    "image": "https://cselearninghub.github.io/CseMaterial/Sem4/icon/oop.jpg"
-                },
-                {
-                    "id": 1,
                     "name": "Object Oriented Programming - 1",
                     "desc": "OOP : 3140705",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem4/syllabus/oop.pdf",
@@ -207,7 +199,7 @@
                     "image": "https://cselearninghub.github.io/CseMaterial/Sem4/icon/oop.jpg"
                 },
                 {
-                    "id": 2,
+                    "id": 1,
                     "name": "Operating System",
                     "desc": "OS : 3140702 ",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem4/syllabus/os.pdf",
@@ -215,7 +207,7 @@
                     "image": "https://cselearninghub.github.io/CseMaterial/Sem4/icon/os.jpg"
                 },
                 {
-                    "id": 3,
+                    "id": 2,
                     "name": "Computer Organization & Architecture",
                     "desc": "COA : 3140707",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem4/syllabus/coa.pdf",
@@ -223,7 +215,7 @@
                     "image": "https://cselearninghub.github.io/CseMaterial/Sem4/icon/coa.jpg"
                 },
                 {
-                    "id": 4,
+                    "id": 3,
                     "name": "Discrete Mathematics",
                     "desc": "DM : 3140708",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem4/syllabus/dm.pdf",
@@ -231,12 +223,52 @@
                     "image": "https://cselearninghub.github.io/CseMaterial/Sem4/icon/dm.jpg"
                 },
                 {
-                    "id": 5,
+                    "id": 4,
                     "name": " Principles Of Economics And Management",
                     "desc": "PEM : 3140709",
                     "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem4/syllabus/pem.pdf",
                     "material": "https://cselearninghub.github.io/CseMaterial/Sem4/material/pem.pdf",
                     "image": "https://cselearninghub.github.io/CseMaterial/Sem4/icon/pem.jpg"
+                },
+                {
+                    "id": 5,
+                    "name": "COA_Paper(W_2020,WS_2021)",
+                    "desc": "COA_Solved Paper",
+                    "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem4/syllabus/coa.pdf",
+                    "material": "https://cselearninghub.github.io/CseMaterial/Sem4/material/coapaper.pdf",
+                    "image": "https://cselearninghub.github.io/CseMaterial/Sem4/icon/coa.jpg"
+                },
+                {
+                    "id": 6,
+                    "name": "OOP-1_Paper (W_S: 2021 & 2022)",
+                    "desc": "OOP_Solved Paper",
+                    "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem4/syllabus/oop.pdf",
+                    "material": "https://cselearninghub.github.io/CseMaterial/Sem4/material/ooppaper.pdf",
+                    "image": "https://cselearninghub.github.io/CseMaterial/Sem4/icon/oop.jpg"
+                },
+                {
+                    "id": 7,
+                    "name": "OOP-1 IMP",
+                    "desc": "OOP : 3140705",
+                    "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem4/syllabus/oop.pdf",
+                    "material": "https://cselearninghub.github.io/CseMaterial/Sem4/material/oopimp.pdf",
+                    "image": "https://cselearninghub.github.io/CseMaterial/Sem4/icon/oop.jpg"
+                },
+                {
+                    "id": 8,
+                    "name": "DM_Paper (W_S: 2020 & 2021)",
+                    "desc": "DM_Solved Paper",
+                    "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem4/syllabus/oop.pdf",
+                    "material": "https://cselearninghub.github.io/CseMaterial/Sem4/material/dmpaper.pdf",
+                    "image": "https://cselearninghub.github.io/CseMaterial/Sem4/icon/oop.jpg"
+                },
+                {
+                    "id": 9,
+                    "name": "OS_Paper (W_S: 2020)",
+                    "desc": "OS_Solved Paper",
+                    "syllabus": "https://cselearninghub.github.io/CseMaterial/Sem4/syllabus/oop.pdf",
+                    "material": "https://cselearninghub.github.io/CseMaterial/Sem4/material/ospaper.pdf",
+                    "image": "https://cselearninghub.github.io/CseMaterial/Sem4/icon/oop.jpg"
                 }
             ]
         },
